@@ -1,0 +1,15 @@
+{
+  "name": "testts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc -w ./src/*.ts --outDir ./dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^5.1.6"
+  }
+}
